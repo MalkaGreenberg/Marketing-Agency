@@ -4,7 +4,7 @@
 This project was to clean up code to make the webpage accessible 
 
 ## Installation
-like to deployed application: https://github.com/MalkaGreenberg/Marketing-Agency
+like to deployed application: https://malkagreenberg.github.io/Marketing-Agency/
 
 ## Usage
 Use the nav bar located in the page header, when you click on a topic it will bring you down to that article on the page.
